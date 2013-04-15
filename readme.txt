@@ -8,7 +8,7 @@ Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Show an animation of the timeline of a Twitter account. Incorporates a system template that allows you to customize the plugin with your own theme easily.
+Show an animation of the timeline of a Twitter account. Add a system template that allows you to customize the plugin with your own theme easily.
 
 
 == Description ==
