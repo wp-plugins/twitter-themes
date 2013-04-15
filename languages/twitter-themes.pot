@@ -1,0 +1,255 @@
+# Copyright (C) 2012 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Twitter themes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-12 14:51+0100\n"
+"PO-Revision-Date: 2013-04-12 14:51+0100\n"
+"Last-Translator: Javier <javierpose@gmail.com>\n"
+"Language-Team: PoseLab <javierpose@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__;_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: twitter-themes.php:115
+msgid "A plugin that displays your latest tweets"
+msgstr ""
+
+#: twitter-themes.php:225
+msgid "Title:"
+msgstr ""
+
+#: twitter-themes.php:230
+msgid "Twitter user name"
+msgstr ""
+
+#: twitter-themes.php:235
+msgid "Refresh time (in minutes)"
+msgstr ""
+
+#: twitter-themes.php:240
+msgid "Select theme"
+msgstr ""
+
+#: twitter-themes.php:255
+msgid "Display profile image"
+msgstr ""
+
+#: twitter-themes.php:257
+msgid "Do not show"
+msgstr ""
+
+#: twitter-themes.php:258
+msgid "Mini - 24px by 24px"
+msgstr ""
+
+#: twitter-themes.php:259
+msgid "Normal - 48px by 48px"
+msgstr ""
+
+#: twitter-themes.php:260
+msgid "Bigger - 73px by 73px"
+msgstr ""
+
+#: twitter-themes.php:261
+msgid "Original"
+msgstr ""
+
+#: twitter-themes.php:269
+msgid "Tweet content"
+msgstr ""
+
+#: twitter-themes.php:273
+msgid "Number of tweets (max 200, included retweets and replies)"
+msgstr ""
+
+#: twitter-themes.php:279
+msgid "Show Tweet Actions"
+msgstr ""
+
+#: twitter-themes.php:284
+msgid "Include retweets"
+msgstr ""
+
+#: twitter-themes.php:289
+msgid "Include replies"
+msgstr ""
+
+#: twitter-themes.php:294
+msgid "Show sending application"
+msgstr ""
+
+#: twitter-themes.php:299
+msgid "Show date"
+msgstr ""
+
+#: twitter-themes.php:306
+msgid "Show links"
+msgstr ""
+
+#: twitter-themes.php:311
+msgid "Open links in a new window"
+msgstr ""
+
+#: twitter-themes.php:316
+msgid "Add \"nofollow\" attributte to links"
+msgstr ""
+
+#: twitter-themes.php:329
+msgid "Show Follow Button"
+msgstr ""
+
+#: twitter-themes.php:334
+msgid "Show Screen Name"
+msgstr ""
+
+#: twitter-themes.php:339
+msgid "Followers count display"
+msgstr ""
+
+#: twitter-themes.php:344
+msgid "Large Follow Button"
+msgstr ""
+
+#: twitter-themes.php:349
+msgid "Button alignment left"
+msgstr ""
+
+#: twitter-themes.php:356
+msgid " Show Link to PoseLab"
+msgstr ""
+
+#: twitter-themes.php:737
+#, php-format
+msgid "%ds"
+msgstr ""
+
+#: twitter-themes.php:738
+#, php-format
+msgid "%dm"
+msgstr ""
+
+#: twitter-themes.php:739
+#, php-format
+msgid "%dh"
+msgstr ""
+
+#: twitter-themes.php:740
+msgid "j M"
+msgstr ""
+
+#: twitter-themes.php:741
+msgid "j M Y"
+msgstr ""
+
+#: twitter-themes.php:764
+#, php-format
+msgid "from %s"
+msgstr ""
+
+#: twitter-themes.php:834
+msgid "Reply"
+msgstr ""
+
+#: twitter-themes.php:838
+msgid "Retweet"
+msgstr ""
+
+#: twitter-themes.php:842
+msgid "Favorite"
+msgstr ""
+
+#: twitter-themes.php:947
+#: twitter-themes.php:950
+#, php-format
+msgid "Please update <a href=\"%1$s\">your settings for "
+msgstr ""
+
+#: twitter-themes.php:959
+#: twitter-themes.php:965
+msgid ": Twitter API settings"
+msgstr ""
+
+#: twitter-themes.php:967
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: twitter-themes.php:974
+msgid "Save"
+msgstr ""
+
+#: twitter-themes.php:988
+msgid "Twitter API Settings"
+msgstr ""
+
+#: twitter-themes.php:989
+msgid "Consumer Key"
+msgstr ""
+
+#: twitter-themes.php:990
+msgid "Consumer Secret"
+msgstr ""
+
+#: twitter-themes.php:991
+msgid "Access Token"
+msgstr ""
+
+#: twitter-themes.php:992
+msgid "Access Token Secret"
+msgstr ""
+
+#: twitter-themes.php:994
+msgid "How to get your Twitter API Settings"
+msgstr ""
+
+#: twitter-themes.php:1024
+msgid "Create a new Twitter application"
+msgstr ""
+
+#: twitter-themes.php:1026
+msgid "Fill in Name, Description, Website"
+msgstr ""
+
+#: twitter-themes.php:1028
+msgid "Agree to rules, fill out captcha, and submit your application"
+msgstr ""
+
+#: twitter-themes.php:1030
+msgid "Copy the Consumer key, Consumer secret, Access Token and Access Token Secret into the left fields"
+msgstr ""
+
+#: twitter-themes.php:1032
+msgid "Click the Save button"
+msgstr ""
+
+#: twitter-themes.php:1047
+msgid "Error: Twitter API Consumer Key not correctly formatted."
+msgstr ""
+
+#: twitter-themes.php:1054
+msgid "Error: Twitter API Consumer Secret not correctly formatted."
+msgstr ""
+
+#: twitter-themes.php:1061
+msgid "Error: Twitter API Access Token not correctly formatted."
+msgstr ""
+
+#: twitter-themes.php:1068
+msgid "Error: Twitter API Access Token Secret not correctly formatted."
+msgstr ""
+
+#: twitter-themes.php:1093
+msgid "Support"
+msgstr ""
+
+#: twitter-themes.php:1100
+msgid "Settings"
+msgstr ""
+

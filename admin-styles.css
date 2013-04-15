@@ -1,0 +1,14 @@
+
+/*clearfix*/
+.twitter_themes .clearfix:before, .twitter_themes .clearfix:after { content: ""; display: table; }
+.twitter_themes .clearfix:after { clear: both; }
+.twitter_themes .clearfix { zoom: 1; }
+
+.twitter_themes fieldset{border: 1px solid #DFDFDF;border-radius: 5px; padding: 5px; margin-bottom: 15px}
+.twitter_themes fieldset p{ padding-left: 2px!important;}
+.twitter_themes fieldset p:last-child{margin-bottom: 0}
+
+.twitter_themes legend{margin-bottom: 5px;}
+
+/*options*/
+.twitter_themes_optional{display: none;}

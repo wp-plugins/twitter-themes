@@ -1,0 +1,97 @@
+.twitter_themes {clear: both!important; }
+.twitter_themes *{
+	box-sizing: border-box!important;
+}
+
+/*clearfix*/
+.twitter_themes .clearfix:before,.twitter_themes .clearfix:after { display: table!important;content: " "!important;}
+.twitter_themes .clearfix:after {clear: both!important;}
+.twitter_themes .clearfix {*zoom: 1!important;}
+
+
+
+/*wrapper*/
+.twitter_little_wrapper{
+	clear: both!important;
+	padding-bottom: 5px!important;
+	border-bottom: 1px dotted #ccc!important;
+}
+
+
+/*profile*/
+	.profile_image_content{
+	    float: left!important;
+	}
+
+
+	/*set size images to avoid problems with images load*/
+		.profile_image_content.mini img{
+			width: 24px; 
+		}
+		.profile_image_content.normal img{
+			width: 48px; 
+		}
+		.profile_image_content.bigger img{
+			width: 73px; 
+		}
+
+
+		.profile_image_content img{
+		    margin-right: 10px!important;
+		    max-width: none!important;
+		}
+
+
+
+/*tweets*/
+	.tweet_list_all{
+	    float: left!important;
+		overflow: hidden!important;
+		margin: 0!important;
+		padding: 0!important;
+	}
+	.tweet_list{
+		overflow: hidden!important;
+		margin: 0!important;
+		padding: 0!important;
+	}
+	.tweet_list li{
+		float: left!important;
+		margin: 0 0 0 0!important;
+		padding: 0!important;
+		list-style: none!important;
+	}
+	.tweet_list li:first-child{
+		display: block!important;
+	}
+
+	.tweet_list li>div{
+		list-style: none!important;
+		line-height: 1.5!important;
+	}
+	.tweet_list .tweet_content{
+		font-size: 0.9em!important;
+	}
+
+/*data*/
+	.date{
+		color: #969595!important;
+		white-space: nowrap!important;
+		font-size: 0.9em!important;
+	}
+	.tweet_content a{
+		display: inline!important;
+		padding: 0!important;
+		font-weight: normal!important;
+	}
+
+.poselab{
+	float: right!important;
+	margin-top: 5px!important;
+	color: #C2C2C2!important;
+	text-decoration: none!important;
+	font-weight: normal!important;
+	font-size: 0.65em!important;
+
+	
+}

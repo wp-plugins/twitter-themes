@@ -1,0 +1,359 @@
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Twitter themes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-12 14:50+0100\n"
+"PO-Revision-Date: 2013-04-12 15:03+0100\n"
+"Last-Translator: Javier <javierpose@gmail.com>\n"
+"Language-Team: PoseLab <javierpose@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__;_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: twitter-themes.php:115
+msgid "A plugin that displays your latest tweets"
+msgstr "Un plugin que muestra tus últimos Tweets"
+
+#: twitter-themes.php:225
+msgid "Title:"
+msgstr "Título"
+
+#: twitter-themes.php:230
+msgid "Twitter user name"
+msgstr "Nombre de usuario de Twitter:"
+
+#: twitter-themes.php:235
+msgid "Refresh time (in minutes)"
+msgstr "Tiempo de refresco (en minutos)"
+
+#: twitter-themes.php:240
+msgid "Select theme"
+msgstr "Seleccionar tema"
+
+#: twitter-themes.php:255
+msgid "Display profile image"
+msgstr "Mostrar imagen de perfil"
+
+#: twitter-themes.php:257
+msgid "Do not show"
+msgstr "No mostrar"
+
+#: twitter-themes.php:258
+msgid "Mini - 24px by 24px"
+msgstr "Mini - 24px por 24px"
+
+#: twitter-themes.php:259
+msgid "Normal - 48px by 48px"
+msgstr "Normal - 48px por 48px"
+
+#: twitter-themes.php:260
+msgid "Bigger - 73px by 73px"
+msgstr "Mayor - 73px por 73px"
+
+#: twitter-themes.php:261
+msgid "Original"
+msgstr "Original"
+
+#: twitter-themes.php:269
+msgid "Tweet content"
+msgstr "Contenido del Tweet"
+
+#: twitter-themes.php:273
+msgid "Number of tweets (max 200, included retweets and replies)"
+msgstr "Número de Tweets (máx. 200, incluidos retweets y respuestas)"
+
+#: twitter-themes.php:279
+msgid "Show Tweet Actions"
+msgstr "Mostrar acciones de Tweets"
+
+#: twitter-themes.php:284
+msgid "Include retweets"
+msgstr "Incluir retweets"
+
+#: twitter-themes.php:289
+msgid "Include replies"
+msgstr "Incluir respuestas"
+
+#: twitter-themes.php:294
+msgid "Show sending application"
+msgstr "Mostrar aplicación de envío"
+
+#: twitter-themes.php:299
+msgid "Show date"
+msgstr "Mostrar fecha"
+
+#: twitter-themes.php:306
+msgid "Show links"
+msgstr "Mostrar enlaces"
+
+#: twitter-themes.php:311
+msgid "Open links in a new window"
+msgstr "Abrir enlaces en una nueva ventana"
+
+#: twitter-themes.php:316
+msgid "Add \"nofollow\" attributte to links"
+msgstr "Añadir atributo \"nofollow\" a enlaces"
+
+#: twitter-themes.php:329
+msgid "Show Follow Button"
+msgstr "Mostrar botón Seguir"
+
+#: twitter-themes.php:334
+msgid "Show Screen Name"
+msgstr "Mostrar nombre de usuario"
+
+#: twitter-themes.php:339
+msgid "Followers count display"
+msgstr "Mostrar contador de seguidores"
+
+#: twitter-themes.php:344
+msgid "Large Follow Button"
+msgstr "Botón Seguir grande"
+
+#: twitter-themes.php:349
+msgid "Button alignment left"
+msgstr "Alineación a la izquierda del botón"
+
+#: twitter-themes.php:356
+msgid " Show Link to PoseLab"
+msgstr "Mostrar enlace a PoseLab"
+
+#: twitter-themes.php:737
+#, php-format
+msgid "%ds"
+msgstr "%ds"
+
+#: twitter-themes.php:738
+#, php-format
+msgid "%dm"
+msgstr "%dm"
+
+#: twitter-themes.php:739
+#, php-format
+msgid "%dh"
+msgstr "%dh"
+
+#: twitter-themes.php:740
+msgid "j M"
+msgstr "j M"
+
+#: twitter-themes.php:741
+msgid "j M Y"
+msgstr "j M Y"
+
+#: twitter-themes.php:764
+#, php-format
+msgid "from %s"
+msgstr "desde %s"
+
+#: twitter-themes.php:834
+msgid "Reply"
+msgstr "Responder"
+
+#: twitter-themes.php:838
+msgid "Retweet"
+msgstr "Retwittear"
+
+#: twitter-themes.php:842
+msgid "Favorite"
+msgstr "Favorito"
+
+#: twitter-themes.php:947
+#: twitter-themes.php:950
+#, php-format
+msgid "Please update <a href=\"%1$s\">your settings for "
+msgstr "Por favor, actualice <a href=\"%1$s\">sus ajustes para"
+
+#: twitter-themes.php:959
+#: twitter-themes.php:965
+msgid ": Twitter API settings"
+msgstr ": Preferencias de la API de Twitter"
+
+#: twitter-themes.php:967
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Usted no tiene permisos suficientes para acceder a esta página."
+
+#: twitter-themes.php:974
+msgid "Save"
+msgstr "Guardar"
+
+#: twitter-themes.php:988
+msgid "Twitter API Settings"
+msgstr "Opciones de la API de Twitter"
+
+#: twitter-themes.php:989
+msgid "Consumer Key"
+msgstr "Consumer Key"
+
+#: twitter-themes.php:990
+msgid "Consumer Secret"
+msgstr "Consumer Secret"
+
+#: twitter-themes.php:991
+msgid "Access Token"
+msgstr "Access Token"
+
+#: twitter-themes.php:992
+msgid "Access Token Secret"
+msgstr "Access Token Secret"
+
+#: twitter-themes.php:994
+msgid "How to get your Twitter API Settings"
+msgstr "Cómo conseguir tus preferencias de la API de Twitter"
+
+#: twitter-themes.php:1024
+msgid "Create a new Twitter application"
+msgstr "Crear una nueva aplicación de Twitter"
+
+#: twitter-themes.php:1026
+msgid "Fill in Name, Description, Website"
+msgstr "Completa nombre, descripción, sitio web"
+
+#: twitter-themes.php:1028
+msgid "Agree to rules, fill out captcha, and submit your application"
+msgstr "Acepta las normas, completa el captcha, y envía tu solicitud."
+
+#: twitter-themes.php:1030
+msgid "Copy the Consumer key, Consumer secret, Access Token and Access Token Secret into the left fields"
+msgstr "Copie la Consumer key, Consumer secret, Access Token and Access Token Secret a los campos de la izquierda"
+
+#: twitter-themes.php:1032
+msgid "Click the Save button"
+msgstr "Pulsa el botón Guardar"
+
+#: twitter-themes.php:1047
+msgid "Error: Twitter API Consumer Key not correctly formatted."
+msgstr "Error: el Consumer Key de la API de Twitter no está correctamente formateado."
+
+#: twitter-themes.php:1054
+msgid "Error: Twitter API Consumer Secret not correctly formatted."
+msgstr "Error: el Consumer Secret de la API de Twitter no está correctamente formateado."
+
+#: twitter-themes.php:1061
+msgid "Error: Twitter API Access Token not correctly formatted."
+msgstr "Error: el Access Token de la API de Twitter no está correctamente formateado."
+
+#: twitter-themes.php:1068
+msgid "Error: Twitter API Access Token Secret not correctly formatted."
+msgstr "Error: el Access Token Secret de la API de Twitter no está correctamente formateado."
+
+#: twitter-themes.php:1093
+msgid "Support"
+msgstr "Soporte"
+
+#: twitter-themes.php:1100
+msgid "Settings"
+msgstr "Opciones"
+
+#~ msgid "Twitter themes"
+#~ msgstr "Twitter themes"
+#~ msgid "Twitter oAuth is not supported since PHP5 is not available"
+#~ msgstr "Twitter OAuth no está soportado ya que PHP5 no está disponible"
+#~ msgid "Button size large"
+#~ msgstr "Button size large"
+#~ msgid "Twitter Widget Pro"
+#~ msgstr "Twitter Widget Pro"
+#~ msgid "Click for Help!"
+#~ msgstr "¡Ayuda!"
+#~ msgid "System Information:"
+#~ msgstr "Información del sistema:"
+#~ msgid "I agree to send anonymous system information"
+#~ msgstr "Estoy de acuerdo con enviar información anónima de mi sistema"
+#~ msgid ""
+#~ "You can help by sending anonymous system information that will help "
+#~ "Xavisys make better decisions about new features."
+#~ msgstr ""
+#~ "Puedes ayudar enviando información anónima acerca de su sitema que "
+#~ "ayudará a Xavisys en la toma de decisiones de las nuevas características"
+#~ msgid ""
+#~ "The information will be sent anonymously, but a unique identifier will be "
+#~ "sent to prevent duplicate entries from the same installation."
+#~ msgstr ""
+#~ "La información será enviada de forma anónima, pero con un identificador "
+#~ "único para prevenir información duplicada proveniente de la misma "
+#~ "instalación."
+#~ msgid "Update Options &raquo;"
+#~ msgstr "Actualizar opciones &raquo;"
+#~ msgid "Could not connect to Twitter"
+#~ msgstr "No se puede conectar a Twitter"
+#~ msgid "Syndicate this content"
+#~ msgstr "Sindica este contenido"
+#~ msgid "No Tweets Available"
+#~ msgstr "No hay tweets"
+#~ msgid "in reply to %s"
+#~ msgstr "en respuesta a %s"
+#~ msgid ""
+#~ "Powered by <a href=\"%s\" title=\"Get Twitter Widget for your WordPress "
+#~ "site\">WordPress Twitter Widget Pro</a>"
+#~ msgstr ""
+#~ "Powered by <a href=\"%s\" title=\"Get Twitter Widget for your WordPress "
+#~ "site\">WordPress Twitter Widget Pro</a>"
+#~ msgid "Follow a Twitter Feed"
+#~ msgstr "Sigue un feed de Twitter"
+#~ msgid "Give the feed a title (optional):"
+#~ msgstr "Ponle un título (opcional):"
+#~ msgid "How many items would you like to display?"
+#~ msgstr "¿Cuántos elementos quieres mostrar?"
+#~ msgid "What to display when Twitter is down (optional):"
+#~ msgstr "Qué mostrar cuando Twitter no está disponible (opcional):"
+#~ msgid "Number of seconds to wait for a response from Twitter (default 2):"
+#~ msgstr ""
+#~ "Número de segundos a esperar para que Twitter responda (por defecto 2):"
+#~ msgid "Show date/time of Tweet (rather than 2 ____ ago):"
+#~ msgstr "Mostrar fecha/hora del Tweet (en vez de 'hace 2 ____'):"
+#~ msgid "Always"
+#~ msgstr "Siempre"
+#~ msgid "If over an hour old"
+#~ msgstr "Si tiene más de una hora"
+#~ msgid "If over a day old"
+#~ msgstr "Si tiene más de un día"
+#~ msgid "If over a week old"
+#~ msgstr "Si tiene más de una semana"
+#~ msgid "If over a month old"
+#~ msgstr "Si tiene más de un mes"
+#~ msgid "If over a year old"
+#~ msgstr "Si tiene más de un año"
+#~ msgid "Never"
+#~ msgstr "Nunca"
+#~ msgid "Hide RSS Icon and Link"
+#~ msgstr "No mostrar el icono RSS y el enlace"
+#~ msgid "Show Link to Twitter Widget Pro"
+#~ msgstr "Mostrar enlace a Twitter Widget Pro"
+#~ msgid "about %s year ago"
+#~ msgid_plural "about %s years ago"
+#~ msgstr[0] "hace %s año"
+#~ msgstr[1] "hace %s años"
+#~ msgid "about %s month ago"
+#~ msgid_plural "about %s months ago"
+#~ msgstr[0] "hace %s mes"
+#~ msgstr[1] "hace %s meses"
+#~ msgid "about %s week ago"
+#~ msgid_plural "about %s weeks ago"
+#~ msgstr[0] "hace %s semana"
+#~ msgstr[1] "hace %s semanas"
+#~ msgid "about %s day ago"
+#~ msgid_plural "about %s days ago"
+#~ msgstr[0] "hace %s día"
+#~ msgstr[1] "hace %s días"
+#~ msgid "about %s hour ago"
+#~ msgid_plural "about %s hours ago"
+#~ msgstr[0] "hace %s hora"
+#~ msgstr[1] "hace %s horas"
+#~ msgid "about %s minute ago"
+#~ msgid_plural "about %s minutes ago"
+#~ msgstr[0] "hace %s minuto"
+#~ msgstr[1] "hace %s minutos"
+#~ msgid "about %s second ago"
+#~ msgid_plural "about %s seconds ago"
+#~ msgstr[0] "hace %s segundo"
+#~ msgstr[1] "hace %s segundos"
+
