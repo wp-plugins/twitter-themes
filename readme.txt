@@ -16,6 +16,14 @@ Show an animation of the timeline of a Twitter account. Add a system template th
 Twitter themes is a plugin that allows you to show the timeline of a Twitter account. The main difference from other plugins is that Twitter themes incorporates a system template that allows you to create your own theme for the plugin easily. If you know HTML and CSS you can create your own theme for the plugin and integrate it into your Wordpress theme. You can create your own HTML, CSS or JavaScript. The plugin includes several themes that you can use as reference to create your own theme and I hope to offer new themes.
 
 
+= Demos: =
+You can see a demo of the plugin in the following URLs:
+
+* [Widget Demo](http://poselab.com/en/twitter-themes/) | [ES](http://poselab.com/twitter-themes/)
+* [Demo with ‘Twitter ticker’ theme as shortcode](http://poselab.com/en/twitter-themes-twitter-ticker-theme-as-shortcode/) | [ES](http://poselab.com/twitter-themes-tema-twitter-ticker-como-shortcode)
+* [Demo with ‘Twitter little ticker’ theme as shortcode](http://poselab.com/en/twitter-themes-twitter-little-ticker-theme-as-shortcode/) | [ES](http://poselab.com/twitter-themes-tema-twitter-little-ticker-como-shortcode)
+
+
 = Features: =
 * You can create your own themes, based on shortcodes, for the plugin to which you can assign CSS, JavaScript or images resources and customize completely.
 * You can use the plugin as a widget where you can configure the options available for each theme.
