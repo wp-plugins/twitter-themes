@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Show an animation of the timeline of a Twitter account. Add a system template that allows you to customize the plugin with your own theme easily.
 
 
-== Description ==
+== Description == 
 
 Twitter themes is a plugin that allows you to show the timeline of a Twitter account. The main difference from other plugins is that Twitter themes incorporates a system template that allows you to create your own theme for the plugin easily. If you know HTML and CSS you can create your own theme for the plugin and integrate it into your Wordpress theme. You can create your own HTML, CSS or JavaScript. The plugin includes several themes that you can use as reference to create your own theme and I hope to offer new themes.
 
